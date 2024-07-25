@@ -1,0 +1,7 @@
+{
+    "description": "Puya py32f0 LL SDK",
+    "name": "framework-puya-py32f0-ll-sdk",
+    "system": "all",
+    "url": "https://www.puyasemi.com/mcu_weichuliqi.html",
+    "version": "0.0.1"
+}
